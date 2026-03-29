@@ -36,6 +36,6 @@ Este projeto é um dashboard de performance de vendas com KPIs de faturamento, v
 
 ## 👤 Autor
 
-**Willian Mateus** | *Data Analyst & BI*
+**Willian Mateus** | *Data Analyst & Business Intelligence*
 
- ℹ️ Para saber mais sobre mim, ver meus outros projetos ou entrar em contato, visite meu [Perfil do GitHub](https://github.com/WillianMateus4).
+ℹ️ Para saber mais sobre mim, ver meus outros projetos ou entrar em contato, visite meu [Perfil do GitHub](https://github.com/WillianMateus4).
