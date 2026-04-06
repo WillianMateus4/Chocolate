@@ -1,4 +1,4 @@
-# 📊 Dashboard de Vendas de Chocolate
+# 📊 Dashboard de Análise de Vendas: Chocolates
 
 ![Power BI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black)
 
