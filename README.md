@@ -8,14 +8,6 @@ Este projeto é um dashboard de performance de vendas com KPIs de faturamento, v
 
 ---
 
-## 📸 Prévia do Dashboard
-
-![Preview do Dashboard - Home](preview/preview.png)
-
-![Preview do Dashboard - Detalhamento](preview/preview_2.png)
-
----
-
 ## 🎯 Principais Funcionalidades
 
 * **Resumo Estratégico (Visão Geral):** Visão clara e consolidada dos principais indicadores, performance de países e ranking de vendedores de forma simples e intuitiva.
